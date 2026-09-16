@@ -1,0 +1,3 @@
+http://hyper.ypnode.my.id:10750/api/validate/
+http://backup1.ypnode.my.id:10750/api/validate/
+http://backup2.ypnode.my.id:10750/api/validate/
